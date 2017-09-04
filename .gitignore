@@ -1,0 +1,7 @@
+/files/
+/win/
+!/files/.geetkeep
+!/win/.geetkeep
+/.idea/
+_test.py
+
